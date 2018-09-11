@@ -4,7 +4,7 @@ package org.velvet;
  * Hello world!
  *
  */
-public class App 
+public class Server 
 {
     public static void main( String[] args )
     {
